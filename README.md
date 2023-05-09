@@ -8,3 +8,8 @@ Perceptron is trained one datapoint per frame, clicking the mouse left button tr
 
 
 ![Alt text](https://github.com/Gianeh/Python_Perceptron/blob/main/Points_guess.gif "Demonstration")
+
+
+
+PS: The whole code is not well commented, surely not written the best way possible, probably not the fastest (performance wise) possible.
+Just my attempt to understand neurons and weights paradigm :)
