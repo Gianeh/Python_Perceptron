@@ -3,4 +3,4 @@ A simple set of files to reproduce the concept of Perceptron, solving the positi
 
 # A Gif from the Points Example using Pygame:
 runs over main.py - function can be changed inside Utility.py
-![Alt text](https://github.com/Gianeh/SFML_Sorting_Visualization/blob/main/sorting_gif.gif "Demonstration")
+![Alt text](https://github.com/Gianeh/Python_Perceptron/blob/main/Points_guess.gif "Demonstration")
