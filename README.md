@@ -3,5 +3,8 @@ A simple set of files to reproduce the concept of Perceptron, solving the positi
 
 # A Gif from the Points Example using Pygame:
 Script runs over main.py - function can be changed inside Utility.py
+
 Perceptron is trained one datapoint per frame, clicking the mouse left button triggers a training on the whole batch for one frame
+
+
 ![Alt text](https://github.com/Gianeh/Python_Perceptron/blob/main/Points_guess.gif "Demonstration")
