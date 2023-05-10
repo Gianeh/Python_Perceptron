@@ -8,7 +8,7 @@ nandtron = Perceptron()
 
 pop = 100
 generations_cap = 100
-# a trivial dataset of "and" results
+# a trivial dataset of "and" "or" "nand" results
 
 ands = []
 for i in range(0, pop):
@@ -42,7 +42,7 @@ def training_logic(brain, data, operator, gen_limit=100):
         result = True if guess == 1 else False
         print(f"Perceptron guess is: {result} and the Prediction is: {'Correct' if guess == data[current][2] else 'Wrong'}")
 
-        # train on current and result
+        # train on current result
         brain.train(data[current][:2], data[current][2])
 
         current += 1
